@@ -1,0 +1,5 @@
+MAX_SIZE = 10
+PLAYER = "P"
+TREASURE = "$"
+TRAP = "@"
+EXIT = "E"
